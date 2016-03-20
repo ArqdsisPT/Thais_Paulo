@@ -1,3 +1,6 @@
+package test;
+
+import model.CursosCRUD;
 
 public class TestaCursos {
 

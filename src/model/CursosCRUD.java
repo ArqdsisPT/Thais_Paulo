@@ -1,3 +1,6 @@
+package model;
+import dao.CursosDAO;
+import to.CursosTO;
 
 public class CursosCRUD {
 

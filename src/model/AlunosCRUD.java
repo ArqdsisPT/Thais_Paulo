@@ -1,3 +1,7 @@
+package model;
+import dao.AlunosDAO;
+import to.AlunosTO;
+
 public class AlunosCRUD {
 
 	private String nome, rg, end, email;

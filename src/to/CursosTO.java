@@ -1,3 +1,4 @@
+package to;
 public class CursosTO {
 	
 	private String cod, nome, numLab, regSoft, material, livro, dataIni, dataTer, horario;
